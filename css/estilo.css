@@ -99,7 +99,8 @@ header nav ul li a:hover{
 
 .bloqueser{
 	width: 19.6%;
-	height: 250px;
+	height: 350%;
+	margin-top: 2%;
 	display: inline-block;
 	vertical-align: top;
 	background: #FF4C48;
@@ -117,14 +118,14 @@ header nav ul li a:hover{
 .imagenserv{
 	display:block;
 	vertical-align: top;
-	padding: 40% 0 0 0;
+	padding: 40% 2% 10% 2%;
 	border-radius: 5px;
 }
 
 .imagenserv2{
 	display:block;
 	vertical-align: top;
-	padding: 28% 0 0 0;
+	padding: 28% 2% 10% 2%;
 	border-radius: 5px;
 }
 
@@ -137,7 +138,7 @@ header nav ul li a:hover{
 
 .misvis{
 	width: 49.5%;
-	height: 300px;
+	height: 22.5em;
 	display: inline-block;
 	vertical-align: top;
 	background: #FF4C48;
@@ -152,14 +153,16 @@ header nav ul li a:hover{
 .imagenvismis2{
 	display:block;
 	vertical-align: top;
-	padding: 2% 0 0 0;
+	padding-top: 5%;
+	padding-bottom: 10%;
 	border-radius: 5px;
 }
 
 .imagenvismis{
 	display:block;
 	vertical-align: top;
-	padding: 15% 0 0 0;
+	padding-top: 13%;
+	padding-bottom: 5%;
 	border-radius: 5px;
 }
 
@@ -244,7 +247,7 @@ section section img{
 	display: block;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 673px) {
 	header img{
 	width: 40%;
 	height: auto;
@@ -279,8 +282,9 @@ section section img{
 	
 	.bloqueser{
 	width: 45%;
-	height: 170px;
-	margin: 1% 2% 0 2%;
+	height: 100%;
+	padding-bottom: 2%;
+	margin: 1% 2% 1% 2%;
 	display: inline-block;
 	vertical-align: top;
 	background: #FF4C48;
