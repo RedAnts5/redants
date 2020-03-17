@@ -229,6 +229,12 @@ footer{
 	text-align: center;
 }
 
+.fotopie{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 3%;
+
+}
 
 .fuentedepie{
 	display: inline-block;
