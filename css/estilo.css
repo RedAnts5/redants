@@ -92,7 +92,6 @@ header nav ul li a:hover{
 }
 
 .main section .bloques {
-
 	padding: 20px;
 	background: #fff;
 	margin-bottom: 20px;
@@ -226,7 +225,7 @@ footer{
 	background: #943126;
 	color:#fff;
 	clear: both;
-	padding: 10px 10px 0px 0;
+	padding: 10px 0px;
 	text-align: center;
 }
 
@@ -234,20 +233,17 @@ footer{
 	display: inline-block;
 	vertical-align: middle;
 	margin-left: 3%;
-	float: left;
 
 }
 
 .fuentedepie{
 	display: inline-block;
 	vertical-align: top;
-	margin:-4.5% 10% -1% 10%;
+	margin:.5% 10% -1% 10%;
 }
 .otrafuente{
 	display: inline-block;
 	padding-left: 15px;
-	margin-top: -10;
-	clear: both;
 }
 
 section section img{
