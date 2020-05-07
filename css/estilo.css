@@ -234,10 +234,6 @@ footer {
     margin-left: 3%;
 }
 
-#whatsapp {
-    margin-left: -50%;
-}
-
 .fuentedepie {
     display: inline-block;
     vertical-align: top;
@@ -276,7 +272,7 @@ section section img {
         padding: 2%;
     }
     header nav ul li a {
-        padding: 5px 15px;
+        padding: 5px 10px;
         display: block;
         color: #fff;
         text-decoration: none;
@@ -356,24 +352,9 @@ section section img {
         width: 20%;
         margin: 1% 42.5% 0 42.5%;
     }
-    footer {
-        background: #943126;
-        color: #fff;
-        clear: both;
-        padding: 10px 0px;
-        text-align: center;
+    .fotopie {
+        width: 20%;
+        margin-left: -1%;
     }
-    .otrafuente {
-        display: inline-block;
-        padding-left: 1px;
-        font-size: 11px;
-    }
-    .otrafuente2 {
-        font-size: 12px;
-    }
-    .fuentedepie {
-        width: 50%;
-        height: auto;
-        margin-top: 3%;
-    }
+    #whatsappicon {}
 }
