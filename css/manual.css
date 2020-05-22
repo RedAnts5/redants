@@ -99,15 +99,17 @@
  
  .title {
      font-family: 'Libre Caslon Text', serif;
+     text-align: center;
  }
  
  .parrafo {
      font-family: 'Baloo 2', cursive;
+     text-align: center;
  }
  
- .glosario{
-    padding-left: 19%;
- }
+.pdff{
+    padding-left: 15%;
+}
 
  footer {
      background: #943126;
